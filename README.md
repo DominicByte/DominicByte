@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @DominicByte
-- 👀 I’m interested in web development and Artificial Intelligence. 
-- 🌱 I’m currently learning Javascript(React.js, Node.js, Express.js)
-- 💞️ I’m looking to collaborate on web based projects.
-- 📫 How to reach me: via Twitter @ifechyByte
+wagwan! my name is Dominic, a backend web developer. 
+currently, i work with express.js and node to build robust web servers. 
+Interested in laravel & golang.
+Also interested in machine learning and data science. 
 
